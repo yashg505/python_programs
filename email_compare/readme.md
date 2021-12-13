@@ -5,6 +5,6 @@ Some conditions to filter out the files:
    and the values give a list of the email address(es) associated with that account. 
    red_flags = {"lay-k": ["kenneth.lay@enron.com", "klay@enron.com"],
                 "skilling-j": ["skilling@enron.com", "jeff.skilling@enron.com"]}
-3. The return type is a list of \email objects", specifically of type email.message.Message.
+3. The return type is a list of "email objects", specifically of type email.message.Message.
 
 The email data is based on major Enron company fraud. https://en.wikipedia.org/wiki/Enron_scandal
