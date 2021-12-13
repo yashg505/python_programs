@@ -1,0 +1,843 @@
+     Marriage of MARY ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1880
+    Returns Quarter	4
+    Returns Volume No	5
+    Returns Page No	0110
+    Marriage of MARY ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1880
+    Returns Quarter	3
+    Returns Volume No	4
+    Returns Page No	276
+    Marriage of MARY ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	New Ross
+    Returns Year	1880
+    Returns Quarter	3
+    Returns Volume No	4
+    Returns Page No	349
+    Marriage of MARY ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1880
+    Returns Quarter	3
+    Returns Volume No	4
+    Returns Page No	389
+    Marriage of MARY ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	New Ross
+    Returns Year	1880
+    Returns Quarter	3
+    Returns Volume No	4
+    Returns Page No	343
+    Marriage of MARY ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1880
+    Returns Quarter	4
+    Returns Volume No	4
+    Returns Page No	395
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Clonmel
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	259
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Rathdrum
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	7
+    Returns Page No	857
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Kilmallock
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	10
+    Returns Page No	196
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	9
+    Returns Page No	437
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	14
+    Returns Page No	295
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Mitchelstown
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	779
+    Marriage of MARY ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Kilrush
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	366
+    Marriage of MARY ROCHE
+    in 1875
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1875
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	617
+    Marriage of MARY ROCHE
+    in 1875
+    Group Registration ID	N/R
+    SR District/Reg Area	Rathdown
+    Returns Year	1875
+    Returns Quarter	1
+    Returns Volume No	17
+    Returns Page No	834
+    Marriage of MARY ROCHE
+    in 1875
+    Group Registration ID	N/R
+    SR District/Reg Area	Youghal
+    Returns Year	1875
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	783
+    Marriage of MARY ROCHE
+    in 1875
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1875
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	150
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Mitchelstown
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	708
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	20
+    Returns Page No	96
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	20
+    Returns Page No	123
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Athy
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	3
+    Returns Page No	379
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	801
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Waterford
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	14
+    Returns Page No	403
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	429
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Thomastown
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	742
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	793
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	794
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Limerick
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	387
+    Marriage of MARY ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Mallow
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	497
+    Marriage of MARY ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	New Ross
+    Returns Year	1878
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	773
+    Marriage of MARY ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	Mitchelstown
+    Returns Year	1878
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	753
+    Marriage of MARY ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1878
+    Returns Quarter	3
+    Returns Volume No	4
+    Returns Page No	281
+    Marriage of MARY ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	151
+    Marriage of MARY ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	348
+    Marriage of MARY ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	466
+    Marriage of MARY ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	956
+    Marriage of MARY ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Tralee
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	679
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Tralee
+    Returns Year	1879
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	560
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Gorey
+    Returns Year	1879
+    Returns Quarter	1
+    Returns Volume No	2
+    Returns Page No	794
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Newcastle
+    Returns Year	1879
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	468
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1879
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	133
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Newcastle
+    Returns Year	1879
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	467
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Clonmel
+    Returns Year	1879
+    Returns Quarter	2
+    Returns Volume No	4
+    Returns Page No	286
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1879
+    Returns Quarter	3
+    Returns Volume No	4
+    Returns Page No	303
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	New Ross
+    Returns Year	1879
+    Returns Quarter	4
+    Returns Volume No	4
+    Returns Page No	375
+    Marriage of MARY ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Tralee
+    Returns Year	1879
+    Returns Quarter	4
+    Returns Volume No	5
+    Returns Page No	339
+    Marriage of MARY ROCHE
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Tralee
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	699
+    Marriage of MARY ROCHE
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Carlow
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	18
+    Returns Page No	369
+    Marriage of MARY ROCHE
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	789
+    Marriage of MARY ROCHE
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Mallow
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	20
+    Returns Page No	296
+    Marriage of MARY ROCHE
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Ennis
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	9
+    Returns Page No	101
+    Marriage of MARY ROCHE
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Killarney
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	10
+    Returns Page No	179
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	9
+    Returns Page No	345
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	New Ross
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	439
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Mallow
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	15
+    Returns Page No	275
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Kinsale
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	10
+    Returns Page No	224
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	9
+    Returns Page No	350
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Tuam
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	712
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	1141
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Middleton
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	14
+    Returns Page No	375
+    Marriage of MARY ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	507
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Kilmacthomas
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	970
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Lismore
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	997
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Killarney
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	420
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Youghal
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	519
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Kanturk
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	363
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Rathdrum
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	17
+    Returns Page No	902
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Newcastle
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	729
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	901
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	489
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	937
+    Marriage of MARY ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Newport
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	548
+    Marriage of MARY ROCHE
+    in 1872
+    Group Registration ID	N/R
+    SR District/Reg Area	Lismore
+    Returns Year	1872
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	803
+    Marriage of MARY ROCHE
+    in 1872
+    Group Registration ID	N/R
+    SR District/Reg Area	Enniscorthy
+    Returns Year	1872
+    Returns Quarter	1
+    Returns Volume No	19
+    Returns Page No	331
+    Marriage of MARY ROCHE
+    in 1872
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1872
+    Returns Quarter	1
+    Returns Volume No	9
+    Returns Page No	368
+    Marriage of MARY ROCHE
+    in 1872
+    Group Registration ID	N/R
+    SR District/Reg Area	Newcastle
+    Returns Year	1872
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	632
+    Marriage of MARIANNE ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	Carlow
+    Returns Year	1878
+    Returns Quarter	4
+    Returns Volume No	3
+    Returns Page No	349
+    Marriage of MARIANNE ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Rathdrum
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	2
+    Returns Page No	1011
+    Marriage of MARIA ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Shillelagh
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	2
+    Returns Page No	952
+    Marriage of MARIA ROCHE
+    in 1875
+    Group Registration ID	N/R
+    SR District/Reg Area	Dublin North
+    Returns Year	1875
+    Returns Quarter	1
+    Returns Volume No	12
+    Returns Page No	451
+    Marriage of MARIA ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Mitchelstown
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	860
+    Marriage of MARIA ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Mallow
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	552
+    Marriage of MARIA ROCHE
+    in 1876
+    Group Registration ID	N/R
+    SR District/Reg Area	Athy
+    Returns Year	1876
+    Returns Quarter	1
+    Returns Volume No	3
+    Returns Page No	409
+    Marriage of MARIA ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Castlebar
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	166
+    Marriage of MARIA ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Trim
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	7
+    Returns Page No	872
+    Marriage of MARIA ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Dublin South
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	17
+    Returns Page No	714
+    Marriage of MARY JANE ROCHE
+    in 1880
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1880
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	63
+    Marriage of MARY SUSAN ROCHE
+    in 1874
+    Group Registration ID	N/R
+    SR District/Reg Area	Dublin North
+    Returns Year	1874
+    Returns Quarter	1
+    Returns Volume No	7
+    Returns Page No	503
+    Marriage of MARY ANNE ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Dublin North
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	7
+    Returns Page No	498
+    Marriage of MARY ANNE ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	9
+    Returns Page No	465
+    Marriage of MARY ANNE ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	15
+    Returns Page No	94
+    Marriage of MARY ANNE ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Newcastle
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	533
+    Marriage of MARY ANNE ROCHE
+    in 1877
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1877
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	146
+    Marriage of MARY ANNE ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	Fermoy
+    Returns Year	1878
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	707
+    Marriage of MARY ELLEN ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1878
+    Returns Quarter	4
+    Returns Volume No	5
+    Returns Page No	101
+    Marriage of MARY JANE ROCHE
+    in 1878
+    Group Registration ID	N/R
+    SR District/Reg Area	Dublin South
+    Returns Year	1878
+    Returns Quarter	4
+    Returns Volume No	2
+    Returns Page No	649
+    Marriage of MARY ANNE ROCHE
+    in 1879
+    Group Registration ID	N/R
+    SR District/Reg Area	Rathdown
+    Returns Year	1879
+    Returns Quarter	2
+    Returns Volume No	2
+    Returns Page No	802 
+
+    Marriage of MARY MURPHY
+    in 1873
+    Group Registration ID	N/R
+    SR District/Reg Area	Dublin North
+    Returns Year	1873
+    Returns Quarter	1
+    Returns Volume No	12
+    Returns Page No	510
+    Marriage of MARY ANNE ROCHE
+    in 1871
+    Group Registration ID	N/R
+    SR District/Reg Area	Parsonstown
+    Returns Year	1871
+    Returns Quarter	1
+    Returns Volume No	13
+    Returns Page No	472
+    Marriage of MARY JANE ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	15
+    Returns Page No	59
+    Marriage of MARY ELLEN ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	20
+    Returns Page No	97
+    Marriage of MARY ANNE ROCHE
+    in 1870
+    Group Registration ID	N/R
+    SR District/Reg Area	Cork
+    Returns Year	1870
+    Returns Quarter	1
+    Returns Volume No	20
+    Returns Page No	66
+    Marriage of MARY ANNE ROCHE
+    in 1872
+    Group Registration ID	N/R
+    SR District/Reg Area	Tralee
+    Returns Year	1872
+    Returns Quarter	1
+    Returns Volume No	5
+    Returns Page No	739
+    Marriage of MARY ANNE ROCHE
+    in 1872
+    Group Registration ID	N/R
+    SR District/Reg Area	Wexford
+    Returns Year	1872
+    Returns Quarter	1
+    Returns Volume No	4
+    Returns Page No	937 
+
+  Marriage of MARY ANNE ROCHE
+in 1873
+Group Registration ID	N/R
+SR District/Reg Area	Dublin North
+Returns Year	1873
+Returns Quarter	1
+Returns Volume No	12
+Returns Page No	510 
+
