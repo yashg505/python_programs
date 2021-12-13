@@ -8,3 +8,6 @@ Some conditions to filter out the files:
 3. The return type is a list of "email objects", specifically of type email.message.Message.
 
 The email data is based on major Enron company fraud. https://en.wikipedia.org/wiki/Enron_scandal
+
+it was not possible to upload the data here as there are more than 3000 files and github only allows upto 100 files to be uploaded at once.
+external link to file: https://drive.google.com/file/d/1j-pqptEj2cl61ivfZUs1bOodvFZ0MN3a/view?usp=sharing
