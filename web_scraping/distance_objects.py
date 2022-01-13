@@ -90,11 +90,12 @@ class distance(object):
         except:
             pass
         return distance
-
-with open('api_key.txt') as f:
-  api_key = f.read()
-api_key = api_key.strip()
-address = '102 Iveragh Road, Whitehall, Whitehall, Dublin 9'
-row1 = distance(api_key = api_key, address_or_postal_code=address)
-obj1 = 'school'
-print(row1.search(search=obj1))      
+if __name__ == '__main__':
+    with open('api_key.txt') as f:
+      api_key = f.read()
+    
+    api_key = api_key.strip()
+    address = '102 Iveragh Road, Whitehall, Whitehall, Dublin 9'
+    row1 = distance(api_key = api_key, address_or_postal_code=address)
+    obj1 = 'school'
+    print(row1.search(search=obj1))      
