@@ -1,7 +1,7 @@
 import requests
 from urllib.parse import urlencode
 
-class distance(object):
+class distance_class(object):
 
     data_type = 'json'
     location_query = None
@@ -15,7 +15,7 @@ class distance(object):
         self.location_query = address_or_postal_code
         if self.location_query != None:
             self.extract_place_id()
-        self.place_id,_,_ = self.extract_place_id()
+            self.place_id,_,_ = self.extract_place_id()
     
     def extract_place_id(self, location = None):
         loc_query = self.location_query
@@ -36,7 +36,9 @@ class distance(object):
             place_id = r.json()['results'][0]['place_id']
             latlng = r.json()['results'][0]['geometry']['location']
         except:
-            pass
+            place_id = []
+            latlng = {'lat':[], 'lng':[]}
+        
         lat,lng = latlng.get("lat"), latlng.get("lng")
         self.lat = lat
         self.lng = lng
@@ -65,14 +67,18 @@ class distance(object):
         try:
             place_id = r.json()['candidates'][0]['place_id']
             name = r.json()['candidates'][0]['name']
+            self.obj_name = name
+            self.obj_place_id = place_id
         except:
-            pass
-        self.obj_name = name
-        self.obj_place_id = place_id
+            name = []
+            place_id = []
+            self.obj_name = name
+            self.obj_place_id = place_id
+        
         return name, place_id
 
     
-    def distance(self, origin_p_id, dest_p_id):
+    def distance_two_points(self, origin_p_id, dest_p_id):
         base_endpoint_dist = f'https://maps.googleapis.com/maps/api/distancematrix/{self.data_type}'
         params = {
             'key' : self.api_key,
@@ -83,19 +89,20 @@ class distance(object):
         params_encoded = urlencode(params)
         distance_endpoint = f'{base_endpoint_dist}?{params_encoded}'
         r = requests.get(distance_endpoint)
-        if r.status_code not in range(200-299):
+        if r.status_code not in range(200,299):
             return {}
         try:
             distance = r.json()['rows'][0]["elements"][0].get('distance').get('text')
         except:
-            pass
+            distance = []
         return distance
-if __name__ == '__main__':
-    with open('api_key.txt') as f:
-        api_key = f.read()
-    
-    api_key = api_key.strip()
-    address = '102 Iveragh Road, Whitehall, Whitehall, Dublin 9'
-    row1 = distance(api_key = api_key, address_or_postal_code=address)
-    obj1 = 'school'
-    print(row1.search(search=obj1))      
+
+if __name__ == '__main___':
+    with open('api.txt') as f:
+        api = f.readlines()
+    api_key = api
+    address = 'Apt. 1, Block F, Smithfield Market, (1 Parking Space), Smithfield, Dublin 7'
+    i = distance_class(api_key=api_key, address_or_postal_code=address)
+    print(i.place_id)
+    print(i.search('education'))
+    print(i.lat, i.lng)
