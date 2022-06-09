@@ -41,8 +41,8 @@ class worksheet:
         for i in self.ws.keys():
             print('--------', end='--------')
     
-
-ws = worksheet('sheet1', 4)
-ws.append(['Tom', "Harry", 78, 76])
-ws.append(['Tom1', "Harry1", 79, 96])
-print(ws.read_cell("A2"))
+if __name__ == "__main__":
+    ws = worksheet('sheet1', 4)
+    ws.append(['Tom', "Harry", 78, 76])
+    ws.append(['Tom1', "Harry1", 79, 96])
+    print(ws.read_cell("A2"))
